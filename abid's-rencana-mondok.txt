@@ -3,9 +3,12 @@ RENCANA MONDOK ABID
 - Mondok
   * Belajar di Pondok minhajul atsar
   * tetap di bone
-  ^ Mondok di makassar
-  ^ tidak keduanya
+    ^ atau keduanya
+    ^ tidak keduanya
+- Menghafal 30 Juz
 - Jember
   ^ belajar
 - Madinah
+  ^ daftar terus sampai lulus
 - Mekkah
+- Riyadh
